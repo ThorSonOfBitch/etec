@@ -1,4 +1,4 @@
-# etec
+# Etec
 Curso Técnico em Informática para Internet 
 
 Etec Dr. Carolino da Motta e Silva
