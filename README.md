@@ -24,7 +24,7 @@ echo 'Hello World';
 
 ### C#
 ```c#
-startiv voild Main()
+static voild Main()
 {
   Console.Write("Hello World");
   Console.ReadKey();
